@@ -1,4 +1,4 @@
-# IMPPORTANT
+# IMPORTANT
 
 You must login with the sample login data. 
 They are:
